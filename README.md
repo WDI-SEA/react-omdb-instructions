@@ -22,7 +22,7 @@ Today the plan is to identify the app components, create the overall structure a
 
 The starter code for this app _does not exist in this repo_. 
 0. Clone **[this starter repo](https://github.com/WDI-SEA/react-film-starter-repo)**
-1. Install dependencies with `npm install`
+1. follow the instructions to set up the starter repo
 2. Run with `npm start`
 3. Investigate your starter code. (This is actually the CRA starter code from before hooks were a thing! You're basically looking back in time right now.)
 
